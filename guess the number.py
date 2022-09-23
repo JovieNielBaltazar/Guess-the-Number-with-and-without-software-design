@@ -42,3 +42,5 @@ class GuesstheNumber:
 
 game = GuesstheNumber(30, 20, 40)
 game.play_game()
+
+
